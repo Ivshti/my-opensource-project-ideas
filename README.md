@@ -6,3 +6,4 @@ list of random ideas for open source stuff
 3. ionic-like framework for the desktop, again built on Angular
 4. ad platform that only serves a logo, which can be used as a non-intrusive watermark over a video, or in some UI design, again non-intrusively
 5. Filmon.tv addon for Stremio
+6. Something with https://github.com/Plaristote/qmlweb
