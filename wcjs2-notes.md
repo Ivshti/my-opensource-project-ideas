@@ -6,3 +6,7 @@ https://docs.google.com/document/d/1SaTYTBvHWWDKA3MPJPpQ-79RNgdS4Xu4g3KiD39VQjU/
 
 https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome - general reference, search "uploads"
 
+----
+GLImageNativePixmap
+NativePixmap
+GLImage
