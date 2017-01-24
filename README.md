@@ -5,11 +5,10 @@ list of random ideas for open source stuff
 2. a module like [WebChimera.js](http://webchimera.org), but directly on top of libav - maybe WebChimera.js 2.0 ?
 3. ionic-like framework for the desktop, again built on Angular
 4. ad platform that only serves a logo, which can be used as a non-intrusive watermark over a video, or in some UI design, again non-intrusively
-5. Filmon.tv addon for Stremio
 6. Something with https://github.com/Plaristote/qmlweb
 
 
 list of ideas which I have more or less realized
 
-1. [multipass-torrent](http://github.com/Ivshti/multipass-torrent): indexes torrents from any source, finds the video files within them and associates them to IMDB ID. It can replicate it's database, which makes it distributed
-2. [playback-native](http://github.com/Ivshti/playback-native): performance oriented video player in JS - uses WebChimera.js tied together with tint2; uses native VLC vouts to draw the video; currently in alpha
+1. [playback-native](http://github.com/Ivshti/playback-native): performance oriented video player in JS - uses WebChimera.js tied together with tint2; uses native VLC vouts to draw the video; currently in alpha
+2. Filmon.tv addon for Stremio
