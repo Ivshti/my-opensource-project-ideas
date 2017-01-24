@@ -1,3 +1,5 @@
+# js-video-player
+
 JavaScript-based video player that can play `mp4`, `mkv` and `webm` with it's own demuxers for MP4 and MKV.
 
 It should have it's own software audio decoders so that it can properly play `mkv` files with AC3/DTS audio.
@@ -19,3 +21,7 @@ https://github.com/mbebenita/Broadway - h264 decoder
 https://github.com/strukturag/libde265.js - h265 (HEVC) decoder 
 
 https://github.com/audiocogs/aac.js - aac decoder 
+
+## Motivation
+
+There are plenty of videos being encoded in the `mkv` format, in order to take advantage of it's more advanced features and the ability to include AAC/DTS audio. This player will act as pollyfill to browsers which do not support the `mkv` container, and would obviously allow playing the audio in all cases too.
