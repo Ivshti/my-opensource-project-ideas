@@ -8,7 +8,7 @@ It can also be extended with software decoders for h264, vp9 and HEVC as a fallb
 
 Resources that can be used, all are pure JS:
 
-https://github.com/dailymotion/hls.js - example of a full player that has a demuxer/internal muxer and MediaSource API usage
+https://github.com/dailymotion/hls.js - example of a full player that has a MPEG-TS demuxer/internal muxer and MediaSource API usage
 
 https://github.com/audiocogs/aurora.js/ - audio decoding framework
 
@@ -21,6 +21,8 @@ https://github.com/mbebenita/Broadway - h264 decoder
 https://github.com/strukturag/libde265.js - h265 (HEVC) decoder 
 
 https://github.com/audiocogs/aac.js - aac decoder 
+
+https://github.com/phoboslab/jsmpeg - MPEG1 decoder, MP2 decode, MPEG-TS demuxer
 
 ## Motivation
 
