@@ -6,6 +6,7 @@ list of random ideas for open source stuff
 3. ionic-like framework for the desktop, again built on Angular
 4. ad platform that only serves a logo, which can be used as a non-intrusive watermark over a video, or in some UI design, again non-intrusively
 6. Something with https://github.com/Plaristote/qmlweb
+7. [Pure JS based video player](/js-player.md) that can polyfill webm/mp4 containers and the most common video/audio codecs, so it can play any popular video format regardless of the browser 
 
 
 list of ideas which I have more or less realized
