@@ -27,3 +27,8 @@ https://github.com/phoboslab/jsmpeg - MPEG1 decoder, MP2 decode, MPEG-TS demuxer
 ## Motivation
 
 There are plenty of videos being encoded in the `mkv` format, in order to take advantage of it's more advanced features and the ability to include AAC/DTS audio. This player will act as pollyfill to browsers which do not support the `mkv` container, and would obviously allow playing the audio in all cases too.
+
+
+## Alternatives
+
+https://code.videolan.org/thelsdj/vlcjs-scratchpad/tree/master
